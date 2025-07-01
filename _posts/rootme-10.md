@@ -1,5 +1,5 @@
 ---
-title: "TP 3 : rootme 9"
+title: "TP 3 : rootme 10"
 excerpt: "CSRF - 0 protection"
 coverImage: "https://www.tice-education.fr/images/stories/img/rootmelogo.jpg"
 date: "2025-07-01T12:05:00.000Z"
