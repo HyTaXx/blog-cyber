@@ -33,11 +33,9 @@ ogImage:
 
 ### Étape 3 : Leur retirer le status disabled
 
-### Étape 4 : Dans l'input, récuperer le auth-login
+### Étape 4 : Dans l'input, mettre n'importe quoi
 
-### Étape 5 : Mettre auth-login dans l'input et valider
-
-### Etape 6 : obtention du flag
+### Etape 5 : obtention du flag
 
 ---
 
