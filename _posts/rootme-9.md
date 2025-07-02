@@ -39,11 +39,11 @@ ogImage:
 
 ## 3. Capture ou extrait de code
 
-![1](https://cdn.discordapp.com/attachments/1020343302052118589/1389543957008224326/image.png?ex=68650127&is=6863afa7&hm=7670071a2945a5d39d8e371fdd2f25f3521bbe696db33c7a20ae57fb4c7eb72b&)
+![1](/assets/blog/rootme/step10-1.png)
 
-![2](https://cdn.discordapp.com/attachments/1020343302052118589/1389544034678341672/image.png?ex=6865013a&is=6863afba&hm=ea40dff5466158a336c8d7d378320016bb2f88849806778cd7207ed23c10dbcf&)
+![2](/assets/blog/rootme/step10-2.png)
 
-![3](https://cdn.discordapp.com/attachments/1020343302052118589/1389544091632799754/image.png?ex=68650147&is=6863afc7&hm=831d180e85997c090f05c47684a5d6fe5390dccbb215bd96f46001019aba6d3a&)
+![3](/assets/blog/rootme/step10-3.png)
 
 ---
 

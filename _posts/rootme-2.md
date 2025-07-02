@@ -41,9 +41,9 @@ ogImage:
 
 ## 3. Capture ou extrait de code
 
-![Formulaire avec boutons désactivés](https://cdn.discordapp.com/attachments/1020343302052118589/1389518240845402283/image.png?ex=6864e934&is=686397b4&hm=a04c0f7dcd4cdc30195a8a5cd6d17afecfb7a93223894c2b299d4a6ee6e4e63c&)
+![Formulaire avec boutons désactivés](/assets/blog/rootme/step3-1.png)
 
-![Flag obtenu après contournement](https://cdn.discordapp.com/attachments/1020343302052118589/1389518357425815594/image.png?ex=6864e950&is=686397d0&hm=3b8e686ac2ba721fa419fd3db51effe95015f12700220fe116843f789474311d&)
+![Flag obtenu après contournement](/assets/blog/rootme/step3-2.png)
 
 ---
 

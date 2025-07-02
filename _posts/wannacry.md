@@ -1,13 +1,13 @@
 ---
 title: "TP 4 : WannaCry : Le ransomware qui a paralysé le monde"
 excerpt: "Découvrez comment une vulnérabilité Windows a été exploitée à grande échelle dans l’attaque WannaCry, affectant hôpitaux, entreprises et gouvernements. Analyse complète de la faille, du déroulé de l’attaque, de ses conséquences et des moyens de s’en protéger."
-coverImage: "https://www.kaspersky.com/content/en-global/images/repository/isc/2020/what_is_wannacry_1.jpg"
+coverImage: "https://m.media-amazon.com/images/I/71Npy9g21RL.png"
 date: "2025-07-02T10:00:00.000Z"
 author:
     name: JJ Kasper
     picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-    url: "https://www.kaspersky.com/content/en-global/images/repository/isc/2020/what_is_wannacry_1.jpg"
+    url: "https://m.media-amazon.com/images/I/71Npy9g21RL.png"
 ---
 
 Le 12 mai 2017, le monde entier assiste à la propagation fulgurante du ransomware **WannaCry**. En l’espace de quelques heures, des centaines de milliers de systèmes sont chiffrés à travers plus de 150 pays. Hôpitaux, entreprises, administrations : personne n’est épargné. Derrière cette attaque, une faille critique exploitée dans les systèmes Windows, et un malware d’une redoutable efficacité.

@@ -1,13 +1,13 @@
 ---
 title: "TP 4 : Target : Quand un prestataire HVAC devient une porte d’entrée"
 excerpt: "En 2013, une cyberattaque contre Target a exposé les données de plus de 100 millions de clients. Ce cas emblématique montre comment un fournisseur tiers peut devenir un maillon faible critique dans la cybersécurité d’une grande entreprise."
-coverImage: "https://www.securitymagazine.com/ext/resources/Issues/2021/January/SEC0121-News3-Feat-Slide1-900x550.jpg"
+coverImage: "https://s.wsj.net/public/resources/images/BN-TL779_2Yqo2_OR_20170516095446.jpg"
 date: "2025-07-02T12:00:00.000Z"
 author:
     name: JJ Kasper
     picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-    url: "https://www.securitymagazine.com/ext/resources/Issues/2021/January/SEC0121-News3-Feat-Slide1-900x550.jpg"
+    url: "https://s.wsj.net/public/resources/images/BN-TL779_2Yqo2_OR_20170516095446.jpg"
 ---
 
 À la fin de l’année 2013, l’enseigne américaine **Target** est victime d’une cyberattaque d’envergure. Résultat : plus de **110 millions de clients** voient leurs données bancaires et personnelles compromises. L’attaque n’a pas commencé par un piratage direct… mais par un **prestataire en gestion de climatisation**.

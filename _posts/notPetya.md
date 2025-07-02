@@ -1,13 +1,13 @@
 ---
 title: "TP 4 : NotPetya : Du ransomware au sabotage économique"
 excerpt: "Derrière l’apparence d’un ransomware, NotPetya s’est révélé être une opération de sabotage à grande échelle. Retour sur cette attaque dévastatrice, son mode opératoire, ses conséquences, et les leçons à en tirer pour se protéger à l’avenir."
-coverImage: "https://media.npr.org/assets/img/2017/06/28/gettyimages-800977238_wide-eef34db4d78f9c42160f960d3670e4b35a7a94b7.jpg"
+coverImage: "https://www.tripwire.com/sites/default/files/shutterstock_667869304.jpg"
 date: "2025-07-02T13:00:00.000Z"
 author:
     name: JJ Kasper
     picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-    url: "https://media.npr.org/assets/img/2017/06/28/gettyimages-800977238_wide-eef34db4d78f9c42160f960d3670e4b35a7a94b7.jpg"
+    url: "https://www.tripwire.com/sites/default/files/shutterstock_667869304.jpg"
 ---
 
 Le 27 juin 2017, une attaque soi-disant de type ransomware frappe massivement l’Ukraine avant de se propager à l’international. Baptisée **NotPetya**, cette cyberattaque utilise une fausse demande de rançon comme écran de fumée pour une opération de **destruction de données à grande échelle**, visant l’infrastructure économique et industrielle.

@@ -1,13 +1,13 @@
 ---
 title: "Conclusion : Que déduire de ces attaques et comment s’en protéger ?"
 excerpt: "Toutes les attaques étudiées montrent un point commun : la faille vient souvent d’un élément négligé. Segmentations, partenaires tiers, réponses lentes… Voici les leçons à en tirer pour mieux protéger son entreprise."
-coverImage: "https://www.securitymagazine.com/ext/resources/Issues/2021/January/SEC0121-News3-Feat-Slide1-900x550.jpg"
+coverImage: "https://static.s-sfr.fr/media/site_sfr_business/room_sfr_business/600x400-cybersecurite.webp"
 date: "2025-07-02T15:00:00.000Z"
 author:
     name: JJ Kasper
     picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-    url: "https://www.securitymagazine.com/ext/resources/Issues/2021/January/SEC0121-News3-Feat-Slide1-900x550.jpg"
+    url: "https://static.s-sfr.fr/media/site_sfr_business/room_sfr_business/600x400-cybersecurite.webp"
 ---
 
 Les attaques analysées — de Target à SolarWinds, en passant par WannaCry ou Log4Shell — révèlent un enseignement fondamental : **la cybersécurité est un écosystème**. Une protection efficace ne dépend pas uniquement des outils techniques, mais aussi de l’organisation, des processus, des partenaires, et de la culture de sécurité dans l’entreprise.

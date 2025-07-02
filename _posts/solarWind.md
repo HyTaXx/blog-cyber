@@ -1,13 +1,13 @@
 ---
 title: "TP 4 : SolarWinds : L’attaque furtive de la chaîne d’approvisionnement"
 excerpt: "L’attaque SolarWinds a compromis des milliers d'organisations en infiltrant une mise à jour logicielle légitime. Plongée dans une cyber-opération d’espionnage à grande échelle orchestrée avec une précision militaire."
-coverImage: "https://media.npr.org/assets/img/2020/12/14/gettyimages-1204781854_wide-d61f496d4f66e5fdd35490d7586bc0de8187fe6a.jpg"
+coverImage: "https://itsocial.fr/wp-content/uploads/2022/04/solarwinds.jpg"
 date: "2025-07-02T12:00:00.000Z"
 author:
     name: JJ Kasper
     picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-    url: "https://media.npr.org/assets/img/2020/12/14/gettyimages-1204781854_wide-d61f496d4f66e5fdd35490d7586bc0de8187fe6a.jpg"
+    url: "https://itsocial.fr/wp-content/uploads/2022/04/solarwinds.jpg"
 ---
 
 En décembre 2020, une attaque d'une **complexité sans précédent** est révélée : les pirates ont compromis les serveurs de l’entreprise **SolarWinds** pour intégrer une backdoor dans leur logiciel **Orion**, utilisé pour la supervision réseau par des milliers d’organisations à travers le monde.

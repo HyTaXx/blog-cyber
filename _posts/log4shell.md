@@ -1,13 +1,13 @@
 ---
 title: "TP 4 : Log4Shell : La faille Java qui a ébranlé Internet"
 excerpt: "En 2021, une faille critique dans la bibliothèque Log4j a exposé des millions d'applications Java à des attaques à distance. Cet article analyse la vulnérabilité, les impacts mondiaux, et les stratégies de défense pour prévenir une exploitation future."
-coverImage: "https://media.csoonline.com/images/article/2021/12/log4j_shell_log4shell_vulnerability_security_threat_danger_by_tiero_gettyimages-1317172885_2400x1600-100916381-large.jpg"
+coverImage: "https://elionis.fr/media/2022/01/log4j.jpg"
 date: "2025-07-02T11:00:00.000Z"
 author:
     name: JJ Kasper
     picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-    url: "https://media.csoonline.com/images/article/2021/12/log4j_shell_log4shell_vulnerability_security_threat_danger_by_tiero_gettyimages-1317172885_2400x1600-100916381-large.jpg"
+    url: "https://elionis.fr/media/2022/01/log4j.jpg"
 ---
 
 Découverte en décembre 2021, **Log4Shell** est l’une des vulnérabilités les plus graves jamais identifiées. Présente dans la bibliothèque Java **Apache Log4j**, elle permet à un attaquant d’exécuter du code arbitraire à distance avec une simplicité déconcertante. Son impact est colossal, affectant des millions de serveurs dans le monde.

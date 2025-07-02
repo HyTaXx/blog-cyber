@@ -39,13 +39,13 @@ ogImage:
 
 ## 3. Capture ou extrait de code
 
-![1](https://cdn.discordapp.com/attachments/1020343302052118589/1389539304287633490/Capture_decran_2025-07-01_a_11.31.47.png?ex=6864fcd2&is=6863ab52&hm=a73573363b4ab5dd0140b7c57830051af29d458aa4c57e02e96be96f2f142c67&)
+![1](/assets/blog/rootme/step9-1.png)
 
-![2](https://cdn.discordapp.com/attachments/1020343302052118589/1389539304782565406/Capture_decran_2025-07-01_a_11.32.06.png?ex=6864fcd2&is=6863ab52&hm=aafd08212b3b7a23fe72aae0afe162af48562219ecd0ad85696d63f54b66ce5d&)
+![2](/assets/blog/rootme/step9-2.png)
 
-![3](https://cdn.discordapp.com/attachments/1020343302052118589/1389539305147600917/Capture_decran_2025-07-01_a_11.32.31.png?ex=6864fcd2&is=6863ab52&hm=0e5d9e0b4e44fe157c8b9face8f38917753a299b9726c0f27942d39df481b611&)
+![3](/assets/blog/rootme/step9-3.png)
 
-![4](https://cdn.discordapp.com/attachments/1020343302052118589/1389539305491267674/Capture_decran_2025-07-01_a_11.32.39.png?ex=6864fcd2&is=6863ab52&hm=2ed1f721a5c9ecfcd7deaf7e8ffb0d2492216b098b75ae158d6d3061439daefa&)
+![4](/assets/blog/rootme/step9-4.png)
 
 ---
 
